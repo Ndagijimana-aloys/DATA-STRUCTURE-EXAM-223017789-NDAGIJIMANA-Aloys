@@ -325,9 +325,9 @@ g++ -o atm_simulator atm_simulator.cpp
 - **Greedy Algorithm**: O(n) where n is number of denominations
 - **Optimal Algorithm**: O(amount × n) using dynamic programming
 
-## Memory Complexity
+## Screenshot of output
 
-- **Greedy**: O(n) for tracking used denominations
-- **Optimal**: O(amount × n) for DP table storage
+![alt text](screenshot1.png)
+![alt text](screenshot2.png)
 
 ---
